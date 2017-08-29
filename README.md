@@ -2,6 +2,8 @@
 These are my notes on how to host a webpage or website on firebase. 
 Notes contain steps to host a webiste on firebase which is a cloud service for database, authentication, etc. 
 <hr>
+<b>Author: </b>Ankita Patil
+<hr>
 <h2> Steps to host a webpage/website on firebase </h2> 
 <h4>Step 1:</h4>
 Create a firebase account
