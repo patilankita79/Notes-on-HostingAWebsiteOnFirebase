@@ -41,17 +41,13 @@ Since we want to host the website, select <b>Hosting</b> to configure among give
 As we have all the related files of website in a folder named <b>public</b>, write public to the question asked.
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/10.png" />
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/11.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/12_InitializationComplete.png" />
+
 <h4>Step 10:</h4>
-<h4>Step 11:</h4>
-<h4>Step 12:</h4>
-<h4>Step 13:</h4>
-<h4>Step 14:</h4>
-<h4>Step 15:</h4>
-
-
-
-
-
-
+After firebase initialization is complete,we have to deploy the project on firebase. In the command prompt, type the following command. This command deploys the website in the project folder which we created initially in the firebase.
+<bloackquote>$firebase deploy</bloackquote>
+<img src ="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/13_Deploy.png" />
+After deployment, we get a hosting URL where our website is hosted.
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/14_DeployComplete.png" />
 
 <hr>
