@@ -10,7 +10,7 @@ Create a firebase account
 Go to console
 <h4>Step 3:</h4>
 Add a project. 
-I have added a project named <b>ParticleJSEffect.</b>
+<i>I have added a project named <b>ParticleJSEffect.</b></i>
 <h4>Step 1:</h4>
 <h4>Step 1:</h4>
 <h4>Step 1:</h4>
