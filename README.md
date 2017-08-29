@@ -37,6 +37,10 @@ Now, open the command prompt in the project directory OR change the directory to
 Since we want to host the website, select <b>Hosting</b> to configure among given choices.
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/7_SelectHosting.png" />
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/8.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/9.png" />
+As we have all the related files of website in a folder named <b>public</b>, write public to the question asked.
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/10.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/11.png" />
 <h4>Step 10:</h4>
 <h4>Step 11:</h4>
 <h4>Step 12:</h4>
