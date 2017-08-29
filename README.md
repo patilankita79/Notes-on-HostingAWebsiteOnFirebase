@@ -23,7 +23,7 @@ Now, you have to login to the firebase. In the command prompt, type the followin
 <blockquote>$firebase login</blockquote><br/>
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/2_FirebaseLogin.png" />
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/3_Authentication.jpg" /><br/>
-Now, you have to authenticate yourself and after authentication is successful, you are logged in to firebase successfully.
+Now, you have to authenticate with credentials and after authentication is successful, you are logged in to firebase successfully.
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/4_LoginSuccessful.png" />
 
 <h4>Step 7:</h4>
