@@ -17,7 +17,33 @@ Now, install firebase on your machine. In command prompt, type the following com
 <blockquote>$npm install -g firebase-tools</blockquote>
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/1_InstallFirebaseTools.png" />
 <h4>Step 6:</h4>
+Now, you have to login to the firebase. In the command prompt, type the following command
+<blockquote>$firebase login</blockquote>
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/2_FirebaseLogin.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/3_Authentication.jpg" />
+Now, you have to authenticate yourself and after authentication is successful, you are logged in to firebase successfully.
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/4_LoginSuccessful.png" />
+
 <h4>Step 7:</h4>
+Firebase looks for public folder, so put all the website files in public folder.
+Make sure that main page of your website is index.html
+Otherwise firebase will not recognize and won't host your website
+<h4>Step 8:</h4>
+Now, open the command prompt in the project directory OR change the directory to the location where project is stored. In the command prompt, type the following command. Following command initializes firebase in this particular folder
+<blockquote>$firebase init</blockquote>
+<img src ="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/5_Initialize.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/6.png" />
+<h4>Step 9:</h4>
+Since we want to host the website, select <b>Hosting</b> to configure among given choices.
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/7_SelectHosting.png" />
+<img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/8.png" />
+<h4>Step 10:</h4>
+<h4>Step 11:</h4>
+<h4>Step 12:</h4>
+<h4>Step 13:</h4>
+<h4>Step 14:</h4>
+<h4>Step 15:</h4>
+
 
 
 
