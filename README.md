@@ -53,3 +53,21 @@ After deployment, we get a hosting URL where our website is hosted.<br/>
 <img src="https://github.com/patilankita79/Notes-on-HostingAWebsiteOnFirebase/blob/master/Screenshots/14_DeployComplete.png" />
 
 <hr>
+
+## Issues
+
+If you face any issues, put following code in <b>firebase.json</b> file (This file will be created when you type the command firebase init)
+<br>
+
+```
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*"
+      
+    ]
+  }
+}
+```
