@@ -56,7 +56,7 @@ After deployment, we get a hosting URL where our website is hosted.<br/>
 
 ## Issues
 
-If you face any issues, put following code in <b>firebase.json</b> file (This file will be created when you type the command firebase init)
+If you face any issues while deploying, put following code in <b>firebase.json</b> file (This file will be created when you type the command firebase init)
 <br>
 
 ```
